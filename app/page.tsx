@@ -10,7 +10,7 @@ export default function Home() {
         <div className="hero-copy">
           <p className="eyebrow"><span className="live-dot" /> МАРКЕТПЛЕЙС ВИДЕОУСЛУГ</p>
           <h1>Идеи заслуживают<br />быть <span>увиденными.</span></h1>
-          <p className="hero-description">Находите видеоспециалистов, которые превратят вашу задумку в историю. Или делитесь своим талантом с миром.</p>
+          <p className="hero-description">Найдите видеоспециалистов, которые превратят вашу задумку в историю. Или покажите свой талант миру.</p>
           <div className="hero-actions">
             <Link className="button button-lime" href="/catalog">Найти специалиста <span aria-hidden="true">↗</span></Link>
             <Link className="button button-outline" href="/register">Я — автор</Link>
