@@ -29,7 +29,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <div className="page-shell footer-inner">
             <Link className="brand footer-brand" href="/"><span className="brand-mark">V</span><span>video<span className="brand-light">market</span></span></Link>
             <p>Платформа, где встречаются идеи и люди.</p>
-            <span>© 2025 VideoMarket</span>
+            <span>© 2026 VideoMarket</span>
           </div>
         </footer>
       </body>

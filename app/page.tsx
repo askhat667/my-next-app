@@ -22,7 +22,7 @@ export default function Home() {
           <div className="hero-poster poster-large"><span className="poster-sun" /><span className="poster-type">ДРУГОЙ<br />ВЗГЛЯД</span><span className="poster-meta">Короткий метр · 02:48</span></div>
           <div className="hero-poster poster-small"><span className="poster-stripe" /><span className="poster-label">MAKE<br />IT MOVE</span></div>
           <div className="floating-note"><span className="note-star">✳</span><span>Твоя идея.<br /><strong>Новый кадр.</strong></span></div>
-          <span className="hero-index">VM / 2025</span>
+          <span className="hero-index">VM / 2026</span>
         </div>
       </section>
 
