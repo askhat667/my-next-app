@@ -12,7 +12,7 @@ export default function Home() {
           <h1>Идеи заслуживают<br />быть <span>увиденными.</span></h1>
           <p className="hero-description">Найдите видеоспециалистов, которые превратят вашу задумку в историю. Или покажите свой талант миру.</p>
           <div className="hero-actions">
-            <Link className="button button-lime" href="/catalog">Найти специалиста <span aria-hidden="true">↗</span></Link>
+            <Link className="button button-lime" href="/catalog">Найти видеоспециалиста <span aria-hidden="true">↗</span></Link>
             <Link className="button button-outline" href="/register">Я — автор</Link>
           </div>
           <div className="hero-proof"><div className="avatar-stack"><span className="avatar">A</span><span className="avatar avatar-peach">M</span><span className="avatar avatar-blue">K</span></div><p><strong>Уже 1 200+</strong><br />креаторов на платформе</p></div>
